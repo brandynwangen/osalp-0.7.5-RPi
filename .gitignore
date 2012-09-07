@@ -4,8 +4,9 @@ config.log
 config.status
 libtool
 stamp-h1
-aflib/*.lo
-aflib/*.loT
+*.la
+*.lo
+*.loT
 aflib/.libs/
 aflib/.deps/
 formatlib/*/.deps/
