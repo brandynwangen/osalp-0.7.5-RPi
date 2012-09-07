@@ -29,6 +29,7 @@
 
 #include "aflibDebug.h"
 
+#include <string.h>
 
 /*! \brief Constructor that requires a parent.
 */
