@@ -1,0 +1,11 @@
+*Makefile
+config.h
+config.log
+config.status
+libtool
+stamp-h1
+aflib/.deps/
+formatlib/*/.deps/
+formatlib/audiofile-0.2.0/libaudiofile/.deps/
+formatlib/audiofile-0.2.0/audiofile-config
+formatlib/audiofile-0.2.0/libaudiofile/modules/.deps/
