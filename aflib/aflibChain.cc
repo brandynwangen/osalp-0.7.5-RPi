@@ -34,6 +34,7 @@ using std::cout;
 using std::cerr;
 using std::endl;
 
+#include <stdlib.h>
 
 /*! \brief Constructor.
  
