@@ -30,6 +30,8 @@
 #include "aflib.h"
 #include "aflibData.h"
 
+#include <stdlib.h>
+
 #define CACHE_SIZE_MAX 1 * 1024 * 1024  // Max cache size total
 
 long long aflibMemCache::_cache_size_total = 0;
