@@ -31,6 +31,7 @@
 #include "aflib.h"
 #include "aflibDateTime.h"
 
+#include <stdlib.h>
 
 /*! \brief Constructor with no parameters.
 */
