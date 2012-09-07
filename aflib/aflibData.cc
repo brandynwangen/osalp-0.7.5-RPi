@@ -27,6 +27,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <string>
+#include <string.h>
 using std::cerr;
 using std::endl;
 
