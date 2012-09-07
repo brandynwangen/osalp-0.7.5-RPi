@@ -32,6 +32,8 @@
 using std::cerr;
 using std::endl;
 
+#include <string.h>
+
 #include "aflibEnvFile.h"
 
 
