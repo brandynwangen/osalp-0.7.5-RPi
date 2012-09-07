@@ -30,6 +30,7 @@
 
 #include <list>
 
+#include <stdlib.h>
 
 /*! \brief Constructor - Default constructor.
 */
