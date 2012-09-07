@@ -4,6 +4,9 @@ config.log
 config.status
 libtool
 stamp-h1
+aflib/*.lo
+aflib/*.loT
+aflib/.libs/
 aflib/.deps/
 formatlib/*/.deps/
 formatlib/audiofile-0.2.0/libaudiofile/.deps/
