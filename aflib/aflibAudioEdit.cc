@@ -35,6 +35,7 @@ using std::endl;
 #include "aflibAudioEdit.h"
 #include "aflibData.h"
 
+#include <stdlib.h>
 
 /*! \brief Constructor - requires an aflibAudio object.
 
