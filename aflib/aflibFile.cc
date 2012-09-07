@@ -39,6 +39,8 @@
 using std::cerr;
 using std::endl;
 
+#include <string.h>
+
 #include <dirent.h>
 #include <sys/types.h>
 
