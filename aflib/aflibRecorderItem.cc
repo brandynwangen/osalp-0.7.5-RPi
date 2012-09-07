@@ -29,6 +29,7 @@
 #include "aflib.h"
 #include "aflibRecorderItem.h"
 
+#include <string.h>
 
 aflibRecorderItem::aflibRecorderItem() :
    _max_limit(-1),
