@@ -28,7 +28,12 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <iostream.h>
+#include <iostream>
+
+using std::cerr;
+using std::cout;
+using std::endl;
+
 #include <sys/ioctl.h>
 #include <unistd.h>
 #include <fcntl.h>
