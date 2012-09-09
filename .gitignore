@@ -7,9 +7,13 @@ stamp-h1
 *.la
 *.lo
 *.loT
+*.o
 aflib/.libs/
 aflib/.deps/
+formatlib/*/.libs/
 formatlib/*/.deps/
+formatlib/audiofile-0.2.0/libaudiofile/.libs/
 formatlib/audiofile-0.2.0/libaudiofile/.deps/
 formatlib/audiofile-0.2.0/audiofile-config
+formatlib/audiofile-0.2.0/libaudiofile/modules/.libs/
 formatlib/audiofile-0.2.0/libaudiofile/modules/.deps/
