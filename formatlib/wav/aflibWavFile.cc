@@ -28,7 +28,11 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
-#include <iostream.h>
+#include <iostream>
+
+using std::cerr;
+using std::cout;
+using std::endl;
 
 #include "aflibWavFile.h"
 #include "aflibFileItem.h"
