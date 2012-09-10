@@ -29,7 +29,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <iostream.h>
+#include <iostream>
+
+using std::cerr;
+using std::cout;
+using std::endl;
+
 #include <string>
 
 #include "aflibMpgFile.h"
