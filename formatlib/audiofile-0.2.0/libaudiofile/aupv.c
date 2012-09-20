@@ -28,6 +28,7 @@
 #include <sys/types.h>
 #include <stdlib.h>
 #include <assert.h>
+#include <string.h>
 
 #include "aupvinternal.h"
 #include "aupvlist.h"
