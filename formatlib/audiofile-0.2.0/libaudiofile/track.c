@@ -27,6 +27,7 @@
 
 #include <stddef.h>
 #include <assert.h>
+#include <string.h>
 #include "audiofile.h"
 #include "afinternal.h"
 #include "util.h"
