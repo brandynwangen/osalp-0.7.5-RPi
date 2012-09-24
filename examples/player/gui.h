@@ -2,6 +2,7 @@
 #define _GUI_H_
 
 #include <string>
+using std::string;
 
 extern void
 gui_build(int argc, char * argv[]);
