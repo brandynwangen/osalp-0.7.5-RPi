@@ -10,6 +10,7 @@ extern "C"
 }
 
 #include <string>
+using std::string;
 
 
 class ltdraw
