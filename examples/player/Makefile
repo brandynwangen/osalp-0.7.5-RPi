@@ -32,6 +32,6 @@ clean:
 	gcc ${CFLAGS} -c $*.c
 
 .cc.o:
-	c++ ${CFLAGS} -c $*.cc
+	c++ ${CFLAGS} -fpermissive -c $*.cc
 
 
