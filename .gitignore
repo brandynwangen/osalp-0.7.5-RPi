@@ -18,3 +18,4 @@ formatlib/audiofile-0.2.0/audiofile.spec
 formatlib/audiofile-0.2.0/audiofile-config
 formatlib/audiofile-0.2.0/libaudiofile/modules/.libs/
 formatlib/audiofile-0.2.0/libaudiofile/modules/.deps/
+examples/player/player
