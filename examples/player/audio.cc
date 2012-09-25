@@ -31,6 +31,10 @@ extern "C"
 #include "aflibSampleData.h"
 #include <string>
 
+using std::cout;
+using std::cerr;
+using std::endl;
+
 
 #define PLAY_DELTA 2048
 
